@@ -1,5 +1,5 @@
 const dynamicText = document . querySelector ( "h1 span") ;
-const words = ["My Name is Rishi Kasliwal ","I Love C,C++","I Love Java,Dart","I Love Web Dev", "I Love App Dev", "Started Learning Flutter","Hip-Hop listener 🎧","Thank you for reading"];
+const words = ["Rishi Kasliwal ","I Love C,C++","I Love Java,Dart","I Love Python","I Love Web Dev", "I Love App Dev", "Started Learning Flutter","Hip-Hop listener 🎧","Thank you for reading :)"];
 let wordIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
